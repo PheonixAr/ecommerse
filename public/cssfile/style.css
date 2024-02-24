@@ -1,0 +1,163 @@
+.custom-login {
+    height: 500px;
+    padding-top: 100px;
+}
+
+img.slider-img {
+    height: 280px !important
+}
+
+.custom-product {
+    height: 500px
+}
+
+.slider-text {
+    background-color: #84757585 !important;
+}
+
+.trending-image {
+    height: 60px;
+    margin: 12px 0px 10px 20px;
+
+}
+
+.trening-item {
+    padding-top: 15px;
+    float: left;
+    width: 18%;
+    justify-items: center;
+}
+
+.trending-wrapper {
+    margin: 50px;
+}
+
+.tranding-content {
+    padding: 0px 5px 0px 28px;
+}
+
+.detail-img {
+    height: 300px;
+}
+
+.search-box {
+    width: 400px !important
+}
+
+.trending-wrappers {
+    width: 100%;
+
+}
+
+.product-name {
+    /* width: 100px; */
+    margin-left: 12px;
+}
+
+.col {
+    /* padding-left: 20%; */
+    display: inline-block;
+
+}
+
+.search-img {
+    height: 60px;
+    margin: 12px 0px 10px 30px;
+
+}
+
+
+/* -------------------header------------------------- */
+/* .dropdown-menu {
+
+    background-color: #d83f3f;
+    color: ;
+
+} */
+
+
+
+
+.cart-list-devider {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding-bottom: 20px
+}
+
+/* ------------------------------------details------------- */
+
+#btn-details {
+    margin: 10px 12px 10px 0px;
+}
+
+
+/* ---------------------products------------------ */
+.prt-btn {
+    float: right;
+    padding-right: 78%;
+}
+
+.prt-btn button {
+    margin: 4px;
+}
+
+.cart-list-devider {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+
+/* ---------------------------ordersnow---------------------------- */
+
+.ordernow {
+    border-radius: 8px;
+    /* border-style: groove; */
+    border-style: groove;
+}
+
+.ordernow h4 {
+    padding-left: 10px;
+    font-weight: bold;
+}
+
+.order_items {
+    padding: 4px;
+    margin-left: 10px;
+}
+
+.order_items span {
+    float: right;
+    padding-right: 15px;
+}
+
+.order_address {
+    width: 100%;
+}
+
+hr {
+    border-color: rgb(177, 176, 176);
+
+}
+
+button {
+    text-decoration: none;
+    outline: none !important;
+
+}
+
+#paymentmethod {
+    border-radius: 8px;
+    border-style: groove;
+}
+
+#paymentmethod input {
+    margin-left: 15px;
+}
+
+/* ---------------footer------------------------ */
+#footer {
+    align-items: end;
+    margin-top: 100px;
+
+}
